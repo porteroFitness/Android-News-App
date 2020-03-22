@@ -6,5 +6,5 @@
 - [x] [Gson](https://github.com/google/gson)
 - [x] [Retrofit](https://square.github.io/retrofit/)
 
-[](!https://github.com/porteroFitness/Android-News-App/blob/master/News.png)
-[](!https://github.com/porteroFitness/Android-News-App/blob/master/NewsDetailled.png)
+![](https://github.com/porteroFitness/Android-News-App/blob/master/News.png)
+![](https://github.com/porteroFitness/Android-News-App/blob/master/NewsDetailled.png)
